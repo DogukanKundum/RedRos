@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/redros.iml" filepath="$PROJECT_DIR$/redros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redros-dao/redros-dao.iml" filepath="$PROJECT_DIR$/redros-dao/redros-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redros-services/redros-denemeService/redros-denemeService.iml" filepath="$PROJECT_DIR$/redros-services/redros-denemeService/redros-denemeService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redros-entities/redros-entities.iml" filepath="$PROJECT_DIR$/redros-entities/redros-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redros-interfaces/redros-interfaces.iml" filepath="$PROJECT_DIR$/redros-interfaces/redros-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redros-parent/redros-parent.iml" filepath="$PROJECT_DIR$/redros-parent/redros-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redros-services/redros-services.iml" filepath="$PROJECT_DIR$/redros-services/redros-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redros-util/redros-util.iml" filepath="$PROJECT_DIR$/redros-util/redros-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redros-web/redros-web.iml" filepath="$PROJECT_DIR$/redros-web/redros-web.iml" />
+    </modules>
+  </component>
+</project>

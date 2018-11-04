@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="redros-dao" />
+        <module name="redros-denemeService" />
+        <module name="redros-entities" />
+        <module name="redros-interfaces" />
+        <module name="redros-util" />
+        <module name="redros-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="redros" target="1.5" />
+      <module name="redros-dao" target="1.8" />
+      <module name="redros-denemeService" target="1.8" />
+      <module name="redros-entities" target="1.8" />
+      <module name="redros-interfaces" target="1.8" />
+      <module name="redros-parent" target="1.8" />
+      <module name="redros-services" target="1.8" />
+      <module name="redros-util" target="1.8" />
+      <module name="redros-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

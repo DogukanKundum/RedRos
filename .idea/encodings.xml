@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/redros-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/redros-entities" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/redros-interfaces" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/redros-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/redros-services" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/redros-services/redros-denemeService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/redros-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/redros-web" charset="UTF-8" />
+  </component>
+</project>
